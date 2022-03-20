@@ -8,5 +8,5 @@
     <string name="cancel">Отмена</string>
     <string name="accept">Я подумаю</string>
     <string name="no_contacts_found">Не было найдено ни одного контакта</string>
-    <string name="no_permission">Получение контактов без разрешения невозможно.</string>
+    <string name="no_permission">Получение контактов без разрешения невозможно</string>
 </resources>
