@@ -82,7 +82,6 @@ class ContactsFragment : Fragment() {
             } else {
                 showSnackBarNoContactsFound()
             }
-
             cursor.close()
         }
     }
