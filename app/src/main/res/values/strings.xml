@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">Homework6</string>
+    <string name="app_name">Homework 6: Context, Permissions</string>
+    <string name="name">Имя</string>
+    <string name="contacts_list_is_empty">Список контактов пуст</string>
+    <string name="get_contacts">Получить контакты</string>
+    <string name="title">Дай доступ к контактам, пожалуйста</string>
+    <string name="supporting_text">Ну очень нужно!</string>
+    <string name="cancel">Отмена</string>
+    <string name="accept">Я подумаю</string>
+    <string name="no_contacts_found">Не было найдено ни одного контакта</string>
+    <string name="no_permission">Получение контактов без разрешения невозможно</string>
 </resources>
